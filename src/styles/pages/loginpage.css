@@ -1,0 +1,28 @@
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #28282F;
+}
+
+.login-form {
+    width: 300px;
+    padding: 24px;
+    background: #001628;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    color: #fff;
+}
+
+.login-title {
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+.error-message {
+    color: #fff;
+    font-size: 14px;
+    margin-bottom: 12px;
+    font-weight: bold;
+}

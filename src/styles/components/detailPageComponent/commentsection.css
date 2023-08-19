@@ -1,0 +1,43 @@
+.sider {
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.comment-content-title {
+    margin: 0px 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    color: #fff;
+}
+
+.comment-content-form {
+    margin: 0px 20px;
+}
+.comment-content-form-form {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+
+.comment-content-display {
+    margin: 20px 20px 0px 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.comment-content-display-card-name {
+    font-weight: bold;
+    word-wrap: break-word;
+    white-space: normal;
+}
+
+.comment-content-display-card-date {
+    float: right;
+    font: 10px;
+}
+
+.comment-content-display-card-comment {
+    word-wrap: break-word;
+    white-space: normal;
+}

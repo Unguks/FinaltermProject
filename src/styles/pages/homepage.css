@@ -1,0 +1,17 @@
+.content-search {
+    background: #28282F;
+    display: flex;
+    justify-content: center;
+    padding: 20px 0px;
+}
+
+.content-content {
+    padding: 24;
+    background: #28282F;
+}
+
+.content-content-card {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

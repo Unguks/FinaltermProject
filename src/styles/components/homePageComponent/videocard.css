@@ -1,0 +1,11 @@
+.video-card {
+    width: 340px;
+    margin: 10px;
+}
+
+.video-card-text {
+    text-align: center;
+    font-weight: bold;
+    word-wrap: break-word;
+    word-break: break-all;
+}

@@ -1,0 +1,14 @@
+.sider {
+    margin: 0px 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.comment-content-display {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    word-wrap: break-word;
+    word-break: break-all;
+}

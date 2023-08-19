@@ -1,0 +1,39 @@
+.header {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #fff;
+}
+
+.header-title {
+    color: #fff;
+    text-decoration: none;
+}
+
+.header-title:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+.header-title:visited {
+    color: #fff;
+    text-decoration: none;
+}
+
+.header-title:active {
+    color: #fff;
+    text-decoration: none;
+}
+
+.menu-right {
+    flex: auto;
+    justify-content: flex-end;
+}
+
+.menu-left {
+    flex: auto
+}
