@@ -4,14 +4,20 @@ this project is still in development and not yet connected to the backend (lot o
 ## How to Run Locally
 To run the Tokopedia Play Clone locally, follow these steps:
 
+#clone repository
+
 ```
   git clone https://github.com/Priquetrum/FinaltermProject
 ```
 
-## Install dependencies
+# Install dependencies
 
+```
   npm install
-Start the server
+```
 
+#Start the server
+```
   npm start
-The app can be accessed at http://localhost:3000.
+```
+access at localhost:3000.
