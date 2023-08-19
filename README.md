@@ -16,7 +16,7 @@ To run the Tokopedia Play Clone locally, follow these steps:
   npm install
 ```
 
-#Start the server
+# Start the server
 ```
   npm start
 ```
